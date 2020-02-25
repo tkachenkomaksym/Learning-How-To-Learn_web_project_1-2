@@ -1,26 +1,16 @@
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+}
 
 .link {
     text-decoration: none;
 }
 
-/*ul {*/
-/*    list-style: none;*/
-/*}*/
-
-.page {
-    min-width: 1100px;
-    /* we don't know how to make mobile versions of websites yet, */
-    /* so here we've set a minimum page width */
-    max-width: 1600px;
-    /* here we've set a maximum page width */
-    margin: 0 auto;
-    /* this ensures that all content is centered on screens wider than 1600px */
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-}
-
 .header {
     height: 100vh;
-    /* parameters for the header section */
     min-height: 600px;
     max-height: 756px;
     display: flex;
@@ -52,7 +42,7 @@
     left: 0;
     text-decoration: none;
 }
-/* here we have two examples of selectors in order to remind you how to set styles for elements */
+
 .header__main-illustration {
     width: 765px;
     height: 608px;
@@ -94,6 +84,7 @@
     display: flex;
     justify-content: center;
 }
+
 .two-columns {
     display: flex;
     width: 80%;
@@ -130,8 +121,6 @@
     line-height: 34px;
     font-size: 24px;
 }
-
-
 
 .section-title, .section-subtitle {
     display: flex;
