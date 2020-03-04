@@ -1,7 +1,9 @@
 @import url(../section-title/section-title.css);
 @import url(../section-subtitle/section-subtitle.css);
-@import url(../table/table.css);
+@import url(../cards/cards.css);
 
-.digits {
-  margin: 100px 0;
+.techniques {
+  margin: 100px auto;
+  width: 80%;
+  align-items: center;
 }

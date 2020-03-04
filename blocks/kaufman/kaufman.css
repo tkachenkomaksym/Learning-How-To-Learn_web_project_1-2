@@ -5,6 +5,7 @@
 @import url(../table/__heading/_theme/table__heading_theme_dark.css);
 @import url(../table/__text/_theme/table__text_theme_dark.css);
 @import url(../kaufman/__triangle/kaufman__triangle.css);
+@import url(../rotation/rotation.css);
 
 .kaufman {
   display: flex;
