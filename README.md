@@ -1,8 +1,5 @@
 # Yandex Practicum
 First project
-
-
-# 
 Learning how to learn -- improve yourself better
 
 # Learning how to learn
