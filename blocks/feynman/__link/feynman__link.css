@@ -8,4 +8,10 @@
   right: 48px;
   bottom: 0;
   top: 50%;
+  opacity: 1;
+  transition: .2s ease-out;
+}
+
+.feynman__link:hover {
+  opacity: .5;
 }

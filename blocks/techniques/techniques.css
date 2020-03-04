@@ -3,7 +3,7 @@
 @import url(../cards/cards.css);
 
 .techniques {
-  margin: 100px auto;
+  margin: 0 auto;
   width: 80%;
   align-items: center;
 }

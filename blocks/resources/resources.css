@@ -1,0 +1,10 @@
+@import url(../resources/__logo-zone/resources__logo-zone.css);
+@import url(../resources/__logo/resources__logo.css);
+
+.resources>.section-title{
+  margin-top: 100px;
+}
+
+.resources>.section-subtitle {
+  margin-top: 20px;
+}
