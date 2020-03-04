@@ -1,11 +1,11 @@
-# Learning how to learn
+# Yandex Practicum
 First project
 
 
 # 
 Learning how to learn -- improve yourself better
 
-# LIAN AGENCY
+# Learning how to learn
 #### This is a landing page for Learning how to learn
 ## Description
 This is a learning project. A web page contains animation, iframes, build on flexbox with the latest web development technology.
