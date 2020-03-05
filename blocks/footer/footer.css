@@ -1,4 +1,5 @@
 @import url(../footer/__columns/footer__columns.css);
+@import url(../footer/__column/footer__column.css);
 @import url(../footer/__column/_content/footer__column_content_copyright.css);
 @import url(../footer/__author/footer__author.css);
 @import url(../footer/__column-heading/footer__column-heading.css);
