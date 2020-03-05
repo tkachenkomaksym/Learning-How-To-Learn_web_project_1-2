@@ -1,6 +1,5 @@
 # Yandex Practicum
-First project
-Learning how to learn -- improve yourself better
+My first project.Learning how to learn -- improve yourself better
 
 # Learning how to learn
 #### This is a landing page for Learning how to learn
@@ -8,20 +7,15 @@ Learning how to learn -- improve yourself better
 This is a learning project. A web page contains animation, iframes, build on flexbox with the latest web development technology.
 
 ## Technologies used
-* HTML5
-* CSS3
+* HTML
+* CSS
 * BEM
 
 ## Build and run
-Requirements:
-* nodejs
-* git
-
 How to run:
 
-    git clone https://github.com/tkachenkomaksym/web_project_1.git
-    cd 
-    npm install
+Copy all project files to web server root of website and navigate to domain of this website.
+
     
 ## Room for improvements
 * cross-browser compatibility
