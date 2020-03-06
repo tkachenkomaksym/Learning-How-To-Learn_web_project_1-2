@@ -2,6 +2,6 @@
 @import url(../video/__iframe/video__iframe.css);
 @import url(../video/__list-item/video__list-item.css);
 
-.video {
+.video>.section-title {
   margin-top: 100px;
 }

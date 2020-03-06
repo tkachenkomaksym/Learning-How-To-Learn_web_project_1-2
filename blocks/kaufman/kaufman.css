@@ -9,3 +9,12 @@
   position: relative;
   align-items: center;
 }
+
+.kaufman>.section-title {
+  margin-top: 90px;
+}
+
+.kaufman>.table_theme_dark {
+  margin-bottom: 90px;
+}
+
