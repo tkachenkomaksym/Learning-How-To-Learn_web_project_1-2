@@ -3,6 +3,6 @@
 
 .logo {
   width: 154px;
-  height: 31px;
+  min-height: 31px;
   position: absolute;
 }

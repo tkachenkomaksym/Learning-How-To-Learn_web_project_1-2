@@ -8,9 +8,6 @@
 </head>
 <body>
 <div class="page">
-<!--  Не могу заставить ссылку подсвечиваться при наведение в хедере и первую в списке ресурсов,
- хотя остальные работают. Еще я думаю, что :hover нужно сделать или модификатор для всех элементов link или отдельным блоком.
- Комментировать можно по-русски, если это не противоречит правилам кура. Спасибо за отличное ревью первого проекта :) -->
   <header class="header">
     <img class="logo logo__place_header"
          src="images/logo.png"
@@ -115,7 +112,7 @@
     </section>
 
     <section class="feynman">
-      <h2 class="feynman__title">The Feynman Technique</h2>
+      <h2 class="feynman__title">The&nbspFeynman Technique</h2>
       <p class="feynman__subtitle">Learn without forgetting.</p>
       <a href="https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230"
          class="feynman__link"
@@ -241,9 +238,10 @@
 
         <li class="resources__list-item">
           <a href="https://ed.ted.com/"
-             class="resources__logo"
+             class="resources__link"
              target="_blank">
-            <img src="images/logo/tedED.png"
+            <img class="resources__logo"
+                 src="images/logo/tedED.png"
                  alt="tedED logo"/>
           </a>
         </li>
